@@ -1,3 +1,17 @@
+#Data Files to ignore for my project
+*.csv
+*.xlsx
+*.xls
+*.txt
+
+#Folders to ignore 
+data/
+output/
+results/
+logs/
+figures/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
